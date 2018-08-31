@@ -1,0 +1,6 @@
+ArrayList<Integer>al=new ArrayList<Integer>();
+		al.add(1);
+		al.add(9);
+		al.add(4);al.add(5);
+		al.add(3);
+		Collections.sort(al);
